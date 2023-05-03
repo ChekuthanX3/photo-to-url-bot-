@@ -40,7 +40,7 @@ I am small media or file to telegra.ph link uploader bot.**
 
 >> `I can convert under 5MB photo or video to telegraph link.`
 
-Made by @Mo_Tech_YT"""
+Made by @Lion_098765"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -55,13 +55,13 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /about - For more about me
 /status - For bot updates
 
-Made by @Mo_Tech_YT"""
+Made by @Lion_098765"""
 
 ABOUT_TEXT = """--**About Me**-- 😎
 
 🤖 **Name :** [Telegraph Uploader](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **Developer :** [CHEKUTHAN](https://github.com/ChekuthanX3)
 
 👨‍💻 **Editor :** [Muhammed](https://github.com/Mrk_yt)
 
